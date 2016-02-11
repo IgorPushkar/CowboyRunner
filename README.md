@@ -1,4 +1,4 @@
-# FlappyBirdClone
-Third game in process of studying Unity.
+# Cowboy Runner
 
-Flappy bird clone. Mostly for just getting familiar to sidescroller. Will try to learn how to post score on Twitter.
+Platformer with only action of jumping over the obstacles and don't get pushed outside of camera view.
+Created in Unity3D.
