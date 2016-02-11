@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 4baf8434afe3c1c48ad39d62e1cf7c51
+timeCreated: 1455211790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bush 1
+    21300002: Bush 2
+    21300004: Cactus
+    21300006: Rock
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bush 1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 280
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.353035, y: -99.31949}
+        - {x: 87.353035, y: -85.31949}
+        - {x: 115.353035, y: -7.3194885}
+        - {x: 115.353035, y: 57.68051}
+        - {x: -19.646965, y: 118.68051}
+        - {x: -63.646965, y: 118.68051}
+        - {x: -113.646965, y: 17.680511}
+        - {x: -113.646965, y: -113.31949}
+        - {x: -93.646965, y: -117.31949}
+        - {x: 113.353035, y: -117.31949}
+        - {x: 115.353035, y: -110.31949}
+        - {x: 115.353035, y: -89.31949}
+        - {x: 107.353035, y: -90.31949}
+    - name: Bush 2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 7
+        width: 351
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.79553, y: 25.680511}
+        - {x: 54.795532, y: 76.68051}
+        - {x: 13.795532, y: 102.68051}
+        - {x: -68.20447, y: 102.68051}
+        - {x: -140.20447, y: 25.680511}
+        - {x: -142.20447, y: 21.680511}
+        - {x: -142.20447, y: -99.31949}
+        - {x: -135.20447, y: -101.31949}
+        - {x: 113.79553, y: -101.31949}
+        - {x: 125.79553, y: -82.31949}
+        - {x: 143.79553, y: -50.31949}
+        - {x: 143.79553, y: -21.319489}
+      - - {x: 140.79553, y: -11.319489}
+        - {x: 142.79553, y: -13.319489}
+        - {x: 143.79553, y: -13.319489}
+        - {x: 143.79553, y: -7.3194885}
+        - {x: 140.79553, y: -8.319489}
+    - name: Cactus
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 220
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.50958, y: -37.81949}
+        - {x: 89.50958, y: -4.8194885}
+        - {x: 89.50958, y: 97.18051}
+        - {x: 74.50958, y: 110.18051}
+        - {x: -19.490417, y: 110.18051}
+        - {x: -89.49042, y: 23.180511}
+        - {x: -89.49042, y: -71.81949}
+        - {x: -64.49042, y: -108.81949}
+        - {x: 72.50958, y: -108.81949}
+        - {x: 69.50958, y: -79.81949}
+        - {x: 65.50958, y: -77.81949}
+        - {x: 56.509583, y: -77.81949}
+      - - {x: -89.49042, y: -42.81949}
+        - {x: -89.49042, y: -55.81949}
+        - {x: -88.49042, y: -55.81949}
+        - {x: -85.49042, y: -52.81949}
+        - {x: -85.49042, y: -44.81949}
+        - {x: -87.49042, y: -42.81949}
+    - name: Rock
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6
+        width: 338
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.787537, y: 38.36901}
+        - {x: -135.78754, y: -28.63099}
+        - {x: -135.78754, y: -36.63099}
+        - {x: 138.21246, y: -36.63099}
+        - {x: 138.21246, y: -21.63099}
+        - {x: 72.21246, y: 38.36901}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

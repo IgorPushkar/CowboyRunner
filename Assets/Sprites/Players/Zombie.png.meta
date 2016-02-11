@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 04b047270ffc7274ea3f60d5941cf8d2
+timeCreated: 1455211952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie_0
+    21300002: Zombie_1
+    21300004: Zombie_2
+    21300006: Zombie_3
+    21300008: Zombie_4
+    21300010: Zombie_5
+    21300012: Zombie_6
+    21300014: Zombie_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 309
+        width: 150
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.815285, y: 114.92357}
+        - {x: -61.184715, y: 114.92357}
+        - {x: -61.184715, y: 15.923569}
+        - {x: -16.184715, y: -113.07643}
+        - {x: 37.815285, y: -113.07643}
+        - {x: 56.815285, y: -65.07643}
+        - {x: 62.815285, y: -16.076431}
+        - {x: 62.815285, y: 92.92357}
+    - name: Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 313
+        width: 152
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.42357, y: 13.684723}
+        - {x: 59.42357, y: 90.68472}
+        - {x: 28.423569, y: 113.68472}
+        - {x: -30.576431, y: 113.68472}
+        - {x: -59.57643, y: 96.68472}
+        - {x: -61.57643, y: 87.68472}
+        - {x: -61.57643, y: 38.684723}
+        - {x: 6.4235687, y: -113.31528}
+        - {x: 23.423569, y: -113.31528}
+        - {x: 39.42357, y: -106.31528}
+        - {x: 46.42357, y: -80.31528}
+        - {x: 63.42357, y: -34.315277}
+        - {x: 63.42357, y: 13.684723}
+    - name: Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 314
+        width: 153
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.73886, y: -74}
+        - {x: 42.73886, y: -65}
+        - {x: 40.73886, y: -42}
+        - {x: 61.73886, y: -8}
+        - {x: 63.73886, y: -2}
+        - {x: 63.73886, y: 10}
+        - {x: 59.73886, y: 13}
+        - {x: 47.73886, y: 12}
+        - {x: 35.73886, y: 9}
+        - {x: 59.73886, y: 76}
+        - {x: 46.73886, y: 111}
+        - {x: 39.73886, y: 113}
+        - {x: -40.26114, y: 113}
+        - {x: -62.26114, y: 95}
+        - {x: -62.26114, y: 47}
+        - {x: 2.738861, y: -113}
+        - {x: 20.738861, y: -113}
+        - {x: 27.738861, y: -108}
+        - {x: 37.73886, y: -93}
+        - {x: 41.73886, y: -85}
+    - name: Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 312
+        width: 155
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.130554, y: 114.86943}
+        - {x: -63.130554, y: 16.86943}
+        - {x: -30.130554, y: -114.13057}
+        - {x: 38.869446, y: -114.13057}
+        - {x: 63.869446, y: -44.13057}
+        - {x: 63.869446, y: 64.86943}
+        - {x: 43.869446, y: 114.86943}
+    - name: Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 155
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.94586, y: 7.544586}
+        - {x: 37.94586, y: 5.544586}
+        - {x: 32.94586, y: 29.544586}
+        - {x: 63.94586, y: 72.544586}
+        - {x: 50.94586, y: 105.544586}
+        - {x: 28.945862, y: 114.544586}
+        - {x: -26.054138, y: 114.544586}
+        - {x: -63.05414, y: 106.544586}
+        - {x: -63.05414, y: -11.455414}
+        - {x: -30.054138, y: -114.455414}
+        - {x: 36.94586, y: -114.455414}
+        - {x: 63.94586, y: -20.455414}
+        - {x: 63.94586, y: 6.544586}
+        - {x: 62.94586, y: 8.544586}
+    - name: Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 150
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.238846, y: 112.675156}
+        - {x: -61.238846, y: 111.675156}
+        - {x: -61.238846, y: 41.675156}
+        - {x: 2.7611542, y: -111.324844}
+        - {x: 42.761154, y: -111.324844}
+        - {x: 61.761154, y: -59.324844}
+        - {x: 61.761154, y: 66.675156}
+        - {x: 39.761154, y: 112.675156}
+    - name: Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 17
+        width: 152
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.02231, y: 113.35987}
+        - {x: -61.97769, y: 113.35987}
+        - {x: -61.97769, y: 35.35987}
+        - {x: -6.9776917, y: -111.64013}
+        - {x: 36.02231, y: -111.64013}
+        - {x: 59.02231, y: -43.64013}
+        - {x: 63.02231, y: -17.64013}
+        - {x: 63.02231, y: 104.35987}
+    - name: Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 14
+        width: 140
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.207, y: 115.91402}
+        - {x: -48.793, y: 115.91402}
+        - {x: -56.793, y: 109.91402}
+        - {x: -56.793, y: 30.914017}
+        - {x: 4.2070007, y: -115.08598}
+        - {x: 58.207, y: -115.08598}
+        - {x: 58.207, y: 93.91402}
+        - {x: 54.207, y: 107.91402}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
