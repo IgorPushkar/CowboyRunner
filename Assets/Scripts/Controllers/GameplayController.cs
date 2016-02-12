@@ -44,6 +44,7 @@ public class GameplayController : MonoBehaviour {
 
 			if(score > highscore){
 				PlayerPrefs.SetInt ("Score", score);
+				LeaderboardController.instance.ReportScore ();
 			}
 		}
 
